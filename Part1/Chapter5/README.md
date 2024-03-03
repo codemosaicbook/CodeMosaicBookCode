@@ -25,7 +25,7 @@ To get the project up and running on your local machine, follow these steps:
 
 2. **Navigate to the project directory:**
    ```cmd
-   cd <pathOfRepository>/Part1/Chapter5/employee-details-app
+   cd <pathOfRepository>/Part1/Chapter5/EmployeeDetailsApp/employee-details-app
    ```
 
 3. **Install dependencies:** Make sure you have Node.js and npm installed. Then, run:
