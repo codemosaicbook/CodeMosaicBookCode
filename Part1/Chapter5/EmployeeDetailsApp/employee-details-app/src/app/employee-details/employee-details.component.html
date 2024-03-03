@@ -1,0 +1,19 @@
+<!-- Heading for the employee details section -->
+<h2>Employee Details</h2>
+
+<!-- Dropdown for selecting an employee -->
+<select (change)="onSelect($event)">
+  <option value="">Select an Employee</option>
+  <!-- Loop through the employees array to populate the dropdown -->
+  <option *ngFor="let employee of employees" [value]="employee.id">{{employee.name}}</option>
+</select>
+
+<!-- Display details of the selected employee -->
+<div *ngIf="selectedEmployee">
+  <!-- Display the name of the selected employee -->
+  <p>Name: {{selectedEmployee.name}}</p>
+  <!-- Display the role of the selected employee -->
+  <p>Role: {{selectedEmployee.role}}</p>
+  <!-- Display the department of the selected employee -->
+  <p>Department: {{selectedEmployee.department}}</p>
+</div>
