@@ -51,7 +51,18 @@ Happy coding!
 
 ## Connecting to the Angular Frontend
 
-After completing the next steps outlined in Chapter 5, update the Angular `EmployeeDataService` to fetch data from this .NET Core WebAPI instead of using hardcoded data. Refer to Chapter 5's solution guide for detailed instructions.
+After completing the next steps outlined in Chapter 5, update the Angular `EmployeeDataService` to fetch data from this .NET Core WebAPI instead of using hardcoded data. Refer to Chapter 5's solution guide for detailed instructions. For a seamless integration, keep in mind:
+
+- **CORS Configuration:** Ensure CORS is properly configured in the .NET Core WebAPI to accept requests from your Angular app's host address. This setup is crucial to prevent CORS-related errors.
+
+- **Angular Providers:** For Angular standalone components, ensure services are provided correctly. If encountering service-related errors, verify that all necessary providers are included.
+
+- **API Endpoints:** Double-check the API endpoints in your Angular service to ensure they match those exposed by your .NET Core WebAPI.
+
+- **Localhost Port Adjustments:** If your Angular app is hosted on a port different from the default (`http://localhost:4200`), adjust the CORS policy in the .NET Core WebAPI accordingly.
+
+Refer to the substitution files provided in the repository for examples and detailed configurations. These files include necessary adjustments for API calls, providers, and CORS settings to facilitate communication between your Angular frontend and .NET Core backend.
+
 
 ## Structure and Implementation
 
