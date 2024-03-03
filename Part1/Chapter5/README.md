@@ -25,16 +25,16 @@ To get the project up and running on your local machine, follow these steps:
 
 2. **Navigate to the project directory:**
    ```cmd
-    cd <pathOfRepository>/Part1/Chapter5/employee-details-app
+   cd <pathOfRepository>/Part1/Chapter5/employee-details-app
    ```
 
 3. **Install dependencies:** Make sure you have Node.js and npm installed. Then, run:
-  ```cmd
-npm install
+   ```cmd
+   npm install
    ```
 
-4. **Serve the application:** Start the development server:
-  ```cmd
+5. **Serve the application:** Start the development server:
+   ```cmd
    ng serve -o
    ```
 
