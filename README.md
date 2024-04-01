@@ -32,14 +32,5 @@ Refer to the README.md files within each part and chapter folder for specific se
 
 - **Part 2: Practical Application** takes you through the creation of a real-world application. This section is rich with code and includes a comprehensive README.md to guide you through setup, development, and deployment processes.
 
-## Contributing
-
-We welcome contributions from readers and the community. If you have suggestions, corrections, or additions to the code examples, please feel free to submit an issue or pull request. 
-
-For more information on contributing, please refer to the CONTRIBUTING.md file (to be created).
-
-## License
-
-This repository is licensed under the MIT License. See the LICENSE file for more details.
 
 Thank you for joining us on this journey to explore AI-driven development and modern best practices for enterprise software development. Happy coding!
