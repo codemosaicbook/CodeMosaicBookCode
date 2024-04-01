@@ -14,11 +14,7 @@ This chapter introduces the fundamental Git commands necessary for version contr
 
 ### [Chapter 4: Database Diaries: Chronicles of Structured Memories](./Chapter4/)
 
-Dive into the world of databases with "Database Diaries." This chapter covers basic SQL query syntax, prerequisites for setting up a database, and includes examples of stored procedures and an assignment. The folder contains:
-- A README with basic SQL query syntax.
-- `prerequisites.sql` for database setup.
-- Stored procedures examples.
-- An assignment to apply what you've learned.
+Dive into the world of databases with "Database Diaries." This chapter covers basic SQL query syntax, prerequisites for setting up a database, and includes examples of stored procedures and solution to all the hadson.
 
 ### [Chapter 5: Angular Adventures: Crafting the User's Realm](./Chapter5/)
 
