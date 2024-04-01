@@ -34,7 +34,7 @@ Concludes with deploying the application using Azure or AWS, providing YAML code
 
 ## Getting Started
 
-To begin working with the AI Dashboard Web Application, navigate to the [AI Dashboard Web Application](./AIDashboardWebApplication/) folder, where you will find the complete application code. Follow the README within the folder for detailed setup and deployment instructions.
+To begin working with the AI Dashboard Web Application, navigate to the [AI Dashboard Web Application](./ZippedCode/) folder, where you will find the complete application code. Follow the README within the folder for detailed setup and deployment instructions.
 
 ## Prerequisites
 
