@@ -28,10 +28,6 @@ Dive into the world of databases with "Database Diaries." This chapter covers ba
 
 Explore the .NET ecosystem with ".NET Narratives," offering insights into building robust back-end applications. This chapter includes code for the solutions to assignments, illustrating best practices in .NET development.
 
-### [Chapter 10: ChatGPT Charms: Building Words with AI](./Chapter10/)
-
-Delve into the world of AI-driven text generation with "ChatGPT Charms." This chapter provides a comprehensive collection of prompts for GPT, Google Bard, and others, showcasing the power of natural language processing. The README contains an extensive list of prompts designed for nesting and generating sophisticated outputs.
-
 ## Navigating the Code Examples
 
 Each chapter directory contains a README.md with specific instructions, background information, and guidance on running the code examples. These READMEs are designed to help you understand the context of each example and how it relates to the concepts discussed in the corresponding chapter of the book.
